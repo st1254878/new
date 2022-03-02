@@ -1,7 +1,3 @@
 hello git 
 add some change lol.
-<<<<<<< HEAD
-not even close
-=======
 try to push.
->>>>>>> 8641d48 (commitbeforepull)
